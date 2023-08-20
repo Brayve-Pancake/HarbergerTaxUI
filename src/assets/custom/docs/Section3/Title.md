@@ -1,1 +1,0 @@
-# How does Partial Common Ownership work?

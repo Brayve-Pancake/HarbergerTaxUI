@@ -1,1 +1,0 @@
-Lets play a game. Your job is to allocate land and maximimse the output for society as a whole.
