@@ -1,1 +1,0 @@
-# Partial Common Ownership
